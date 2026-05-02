@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Tests
+coverage/
+playwright-report/
+test-results/
+
+# Local env files (important)
+.env
+.env.*
+
+# Git / editor stuff
+.git/
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Cache (optional)
+.cache/
+.tmp/

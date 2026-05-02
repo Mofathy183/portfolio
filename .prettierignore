@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Turbo
+.turbo/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+coverage/
+storybook-static/
+
+# Caches / temp
+.cache/
+.vite/
+tmp/
+temp/
+
+# Prisma generated
+**/prisma/generated/
+**/prisma/client/
+
+# Logs
+*.log
+
+# Minified files
+*.min.js
+
+# TypeScript build
+*.tsbuildinfo
