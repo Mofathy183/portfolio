@@ -1,4 +1,4 @@
-import { useSectionReveal } from '@/hooks/useSectionReveal';
+import useSectionReveal from '@/hooks/useSectionReveal';
 import { personal } from '@/data/portfolio';
 import { Mail, Github, Linkedin, FileText, MapPin } from 'lucide-react';
 
