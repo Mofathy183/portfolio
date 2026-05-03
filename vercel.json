@@ -1,0 +1,17 @@
+{
+	"headers": [
+		{
+			"source": "/cv/:file.pdf",
+			"headers": [
+				{
+					"key": "Content-Type",
+					"value": "application/pdf"
+				},
+				{
+					"key": "Content-Disposition",
+					"value": "attachment; filename=Mohamed_Fathy_CV.pdf"
+				}
+			]
+		}
+	]
+}
