@@ -16,7 +16,7 @@ export const personal = {
 	email: 'mofathy1833@gmail.com',
 	github: 'https://github.com/Mofathy183',
 	linkedin: 'https://www.linkedin.com/in/mohamed-fathy-8376812b5/',
-	cv: '/Mohamed_Fathy_CV.pdf',
+	cv: '/public/cv/Mohamed_Fathy_CV.pdf',
 };
 
 /**
