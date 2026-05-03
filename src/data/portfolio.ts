@@ -9,9 +9,14 @@
  */
 export const personal = {
 	name: 'Mohamed Fathy',
-	title: 'Full-Stack Engineer',
+	title: 'Full-Stack Developer · Backend-Focused',
 	tagline: 'I build systems that think — not just apps that click.',
-	bio: "I'm a full-stack engineer who obsesses over clean architecture, real-world constraints, and the gap between 'it works' and 'it's well-designed.' Currently looking for a backend-leaning or full-stack role where I can ship something meaningful.",
+	bio: `
+I'm a full-stack engineer who obsesses over clean architecture, 
+real-world constraints, and the gap between 'it works' and 'it's well-designed.' 
+I built Beggy — a production-grade monorepo with JWT + OAuth auth, RBAC, CSRF protection, Docker, 
+and a full testing pyramid — because I believe side projects should solve real engineering problems, not just demonstrate syntax.
+`,
 	location: 'Giza, Egypt',
 	email: 'mofathy1833@gmail.com',
 	github: 'https://github.com/Mofathy183',
